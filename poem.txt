@@ -13,6 +13,7 @@ These are the colors of the rainbow
 And the unicorn
 pony
 
+(Kynan)
 Clear[x, y, t, z, tubeplot]
 ParametricPlot3D[{x, 2, 2} + {0, Cos[t], Sin[t]}, {t, 0, 2 Pi}, {x, 0, 4}]
 tube :D
